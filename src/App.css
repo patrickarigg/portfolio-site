@@ -82,6 +82,7 @@ main {
   overflow: scroll;
   scrollbar-color: black black;
   height: 90vh;
+  width: 100%;
   color: white;
   margin: 1rem;
   align-items: center;
